@@ -1,6 +1,6 @@
 {
     "name": "vinkla/retouch",
-    "description": "Automagically transforms uploaded images into WebP format.",
+    "description": "Automagically transforms uploaded images into WebP format",
     "license": "MIT",
     "type": "wordpress-muplugin",
     "keywords": [
