@@ -274,7 +274,7 @@ function get_pending_conversion_count(): int
 function convert_srcset(
     array $sources,
     array $sizeArray,
-    string|null $imageUrl,
+    ?string $imageUrl,
     array $imageMeta,
     int $attachmentId,
 ): array {
