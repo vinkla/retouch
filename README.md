@@ -95,7 +95,7 @@ Or using WP-CLI:
 * * * * * wp cron event run --due-now --path=/path/to/wordpress
 ```
 
-> **Note:** This is not required for local development environments (localhost, .local, .test domains). The plugin will automatically detect local environments and skip this requirement.
+> ![NOTE] This is not required for local development environments (localhost, .local, .test domains). The plugin will automatically detect local environments and skip this requirement.
 
 ### Filters
 
