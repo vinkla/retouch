@@ -86,13 +86,7 @@ define('DISABLE_WP_CRON', true);
 2. Set up a system cron job to run every minute:
 
 ```bash
-* * * * * cd /path/to/wordpress && php wp-cron.php
-```
-
-Or using WP-CLI:
-
-```bash
-* * * * * wp cron event run --due-now --path=/path/to/wordpress
+* * * * * curl https://exempel.se/wordpress/wp-cron.php
 ```
 
 > ![NOTE] This is not required for local development environments (localhost, .local, .test domains). The plugin will automatically detect local environments and skip this requirement.
