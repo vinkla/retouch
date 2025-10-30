@@ -2,8 +2,8 @@
 
 > Automagically transforms uploaded images into WebP format.
 
-[![Build Status](https://github.com/vinkla/retouch/actions)](https://github.com/vinkla/retouch/actions)
-[![Latest Version](https://packagist.org/packages/vinkla/retouch)](https://packagist.org/packages/vinkla/retouch)
+> [!WARNING]  
+> This work is in progress and has not yet been published on Packagist. It may or may not be published in the future.
 
 ## Installation
 
