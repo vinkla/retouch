@@ -89,7 +89,7 @@ define('DISABLE_WP_CRON', true);
 * * * * * curl https://exempel.se/wordpress/wp-cron.php
 ```
 
-> ![NOTE]
+> [!NOTE]
 > This is not required for local development environments (localhost, .local, .test domains). The plugin will automatically detect local environments and skip this requirement.
 
 ### Filters
